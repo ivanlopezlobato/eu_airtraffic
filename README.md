@@ -2,6 +2,17 @@
 
 ## Analyzing air traffic data of the European Union - data based on Eurostat
 
+### project executed by
+
+- Can Paul Bineytioglu
+https://github.com/kb24
+
+- Torsten Templin
+https://github.com/teasko
+
+- Iván López
+https://github.com/ivanlopezlobato
+
 
 In this repository you will find the following folders:
 
